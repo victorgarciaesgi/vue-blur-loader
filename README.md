@@ -1,7 +1,7 @@
 # vue-blur-loader
 A Vue.js component to load images with a blur animation like the site Medium
 
-![](https://media.giphy.com/media/3GBOL9mk46VgdW816r/giphy.gif)
+![Gif](https://i.giphy.com/3GBOL9mk46VgdW816r.gif)
 
 ## Installation
 
